@@ -1,0 +1,65 @@
+{
+  "channel": {
+    "name": "@sheryians",
+    "handle": "@sheryians",
+    "slug": "sheryians",
+    "url": "https://www.youtube.com/@sheryians",
+    "subscribers": null,
+    "scraped_at": "2026-05-04T20:49:07.088309"
+  },
+  "courses": [
+    {
+      "title": "MERN Stack Full Course | Complete Full Stack Developer Roadmap🚀",
+      "lessons": 13,
+      "url": "https://www.youtube.com/watch?v=kkOuRJ69BRY&list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn",
+      "thumbnail": "https://i.ytimg.com/vi/kkOuRJ69BRY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC5kDy9d_ea6t0iRIa_XAHIWI9vkg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Full Stack Web Development Complete Course",
+      "lessons": 16,
+      "url": "https://www.youtube.com/watch?v=4dprtEzunIk&list=PLbtI3_MArDOkxh7XzixN2G4NAGIVqTFon",
+      "thumbnail": "https://i.ytimg.com/vi/4dprtEzunIk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUcl1BoOm7RHB6kLl2HLiW8MvrnQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Complete JS Domination",
+      "lessons": 7,
+      "url": "https://www.youtube.com/watch?v=a-wVHL0lpb0&list=PLbtI3_MArDOnNvk8CCCSR01CQ8B8iNh-A",
+      "thumbnail": "https://i.ytimg.com/vi/a-wVHL0lpb0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByxz7a_mfdA5VCxVP6kGPnapRsQA",
+      "domain": "Other"
+    },
+    {
+      "title": "Complete GSAP Course",
+      "lessons": 13,
+      "url": "https://www.youtube.com/watch?v=9C03V1dXxOU&list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+      "thumbnail": "https://i.ytimg.com/vi/9C03V1dXxOU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJZBAV0wSDOp6P6RtqhrRbvO-3ZA",
+      "domain": "Other"
+    },
+    {
+      "title": "Master Backend Development Series | NodeJS | MongoDB | Express JS",
+      "lessons": 29,
+      "url": "https://www.youtube.com/watch?v=T55Kb8rrH1g&list=PLbtI3_MArDOkXRLxdMt1NOMtCS-84ibHH",
+      "thumbnail": "https://i.ytimg.com/vi/T55Kb8rrH1g/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXmIIdZ92kYcdh0KLH0apV0UKG8w",
+      "domain": "Programming"
+    },
+    {
+      "title": "Master Git & Github Series",
+      "lessons": 5,
+      "url": "https://www.youtube.com/watch?v=Oq6nxXD-MZc&list=PLbtI3_MArDOlJ4036mWiUKaQToUS8MZVu",
+      "thumbnail": "https://i.ytimg.com/vi/Oq6nxXD-MZc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNHX4ku7gOGBys1I8PJXxtIakWCg",
+      "domain": "Other"
+    },
+    {
+      "title": "2 Minute JS | JavaScript Tutorials for Beginners | Free JavaScript Course",
+      "lessons": 20,
+      "url": "https://www.youtube.com/watch?v=mm3EuqSOEqQ&list=PLbtI3_MArDOnz4d9hZlEVnh3vmmoiFvuR",
+      "thumbnail": "https://i.ytimg.com/vi/mm3EuqSOEqQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJQrcLz1nXfFxa_Ddxnb841VqdcA",
+      "domain": "Programming"
+    }
+  ],
+  "stats": {
+    "total_courses": 7,
+    "total_lessons": 103
+  }
+}

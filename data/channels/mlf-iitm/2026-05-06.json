@@ -1,0 +1,30 @@
+{
+  "channel": {
+    "name": "@mlf-iitm",
+    "handle": "@mlf-iitm",
+    "slug": "mlf-iitm",
+    "url": "https://www.youtube.com/@mlf-iitm",
+    "subscribers": null,
+    "scraped_at": "2026-05-06T09:33:16.056297"
+  },
+  "courses": [
+    {
+      "title": "ML Foundations - Live Session Sep 2023",
+      "lessons": 15,
+      "url": "https://www.youtube.com/watch?v=_5Ghci2UtQs&list=PL6duHAYny9nPg_xw9HDmzm_uqS8rFmPpf",
+      "thumbnail": "https://i.ytimg.com/vi/_5Ghci2UtQs/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyBZKH8wDw==&rs=AOn4CLCr2muSzBJxf-wt_ozxjAgdYNeztA",
+      "domain": "Other"
+    },
+    {
+      "title": "ML Foundations - Live Session Sep 2022",
+      "lessons": 28,
+      "url": "https://www.youtube.com/watch?v=X3hokkxd-ug&list=PL6duHAYny9nNChF9iaoZHUOBBjTyb0pTg",
+      "thumbnail": "https://i.ytimg.com/vi/X3hokkxd-ug/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyA0KC4wDw==&rs=AOn4CLD7aifUeNpEAVD6exekLtQ7m_e8CA",
+      "domain": "Other"
+    }
+  ],
+  "stats": {
+    "total_courses": 2,
+    "total_lessons": 43
+  }
+}

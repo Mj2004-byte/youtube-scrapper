@@ -1,0 +1,168 @@
+{
+  "channel": {
+    "name": "@sheryians",
+    "handle": "@sheryians",
+    "slug": "sheryians",
+    "url": "https://www.youtube.com/@sheryians",
+    "subscribers": null,
+    "scraped_at": "2026-05-04T20:54:42.171284"
+  },
+  "playlists": [
+    {
+      "title": "Complete C Language Course: Beginner to Advanced | One Shot + Notes & Projects",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkVW2ShXXJmKUFEd_ZvV3Ar",
+      "thumbnail": "https://i.ytimg.com/vi/OBdehj2lNGY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAmC18GnTFUdR6fNCHS7YfjE4OTUw",
+      "domain": "Other"
+    },
+    {
+      "title": "MERN Stack Full Course | Complete Full Stack Developer Roadmap🚀",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn",
+      "thumbnail": "https://i.ytimg.com/vi/kkOuRJ69BRY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC5kDy9d_ea6t0iRIa_XAHIWI9vkg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Frontend Interviews Series",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOno2xDlL3sqPXTtZltOE1WS",
+      "thumbnail": "https://i.ytimg.com/vi/AIuRkIPkn-8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA2u-IB_S7rn1wCRnQwPL856lMfPg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Inside The Industry | Tech Industry Podcast Series",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOmxtZ8Athg8x4OMZxr4GEDJ",
+      "thumbnail": "https://i.ytimg.com/vi/gZZZqepqgEk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBEAO87hZvpPBELKx7FJCsaVXTBgw",
+      "domain": "Other"
+    },
+    {
+      "title": "Complete React Domination | Full Course + Projects",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOm777bemDCy1abP1t1Rnnbx",
+      "thumbnail": "https://i.ytimg.com/vi/3LRZRSIh_KE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRvZjTNCXPP338kDS70eqn1SOggQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Complete JS Domination",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnNvk8CCCSR01CQ8B8iNh-A",
+      "thumbnail": "https://i.ytimg.com/vi/a-wVHL0lpb0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByxz7a_mfdA5VCxVP6kGPnapRsQA",
+      "domain": "Other"
+    },
+    {
+      "title": "Full Stack Web Development Complete Course",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkxh7XzixN2G4NAGIVqTFon",
+      "thumbnail": "https://i.ytimg.com/vi/4dprtEzunIk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCUcl1BoOm7RHB6kLl2HLiW8MvrnQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "KODR/KODEX/OFFLINE Prerequisite",
+      "lessons": 9,
+      "videoCount": 9,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOmdJQkGTSi0VLsaL74YPbHj",
+      "thumbnail": "https://i.ytimg.com/vi/kkOuRJ69BRY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC5kDy9d_ea6t0iRIa_XAHIWI9vkg",
+      "domain": "Other"
+    },
+    {
+      "title": "Master Frontend Technologies in Just 50 Days",
+      "lessons": 37,
+      "videoCount": 37,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOmG_sQNodXgPP5BIQd4nKBD",
+      "thumbnail": "https://i.ytimg.com/vi/NqqtjkHkYtA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AbYIgAKAD4oCDAgAEAEYMiA_KH8wDw==&rs=AOn4CLD0eoNcg_YVl6eRlOtJsgas87rISQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "DSA with JavaScript Series",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOmSKABu09sEs0SxCibd1wgr",
+      "thumbnail": "https://i.ytimg.com/vi/dY-OpnLZRd0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLChR0ry_1kXFLWlqG0gNX9huAf3Tg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Learn What Matters",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnv954-yjOcVia9F3Xv5MaW",
+      "thumbnail": "https://i.ytimg.com/vi/B-4eN1Pb7qo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJCSxGShnFmTAZvATNJrlmD1S3Mw",
+      "domain": "Other"
+    },
+    {
+      "title": "Paid Courses",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnvdVSOI14rMKVNMeiSHUyM",
+      "thumbnail": "https://i.ytimg.com/vi/NiSjsjK-ZDU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAX2963eZvu8KRhKFv95KHQr_SoQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Complete Backend Development with Real-World Project",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkvOzFU7r2MYeA_Ejw38ZCa",
+      "thumbnail": "https://i.ytimg.com/vi/0IciwnJ6PJI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAYun828U48tbK_n6013ZdpUMlNrw",
+      "domain": "Programming"
+    },
+    {
+      "title": "Complete GSAP Course",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+      "thumbnail": "https://i.ytimg.com/vi/9C03V1dXxOU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJZBAV0wSDOp6P6RtqhrRbvO-3ZA",
+      "domain": "Other"
+    },
+    {
+      "title": "Master Git & Github Series",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOlJ4036mWiUKaQToUS8MZVu",
+      "thumbnail": "https://i.ytimg.com/vi/Oq6nxXD-MZc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNHX4ku7gOGBys1I8PJXxtIakWCg",
+      "domain": "Other"
+    },
+    {
+      "title": "Master Backend Development Series | NodeJS | MongoDB | Express JS",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkXRLxdMt1NOMtCS-84ibHH",
+      "thumbnail": "https://i.ytimg.com/vi/T55Kb8rrH1g/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXmIIdZ92kYcdh0KLH0apV0UKG8w",
+      "domain": "Programming"
+    },
+    {
+      "title": "Web Development Magic: 100 HTML, CSS, and JS Tips and Tricks",
+      "lessons": 60,
+      "videoCount": 60,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOlT-VblOyE2A9x-kT_MJ8lY",
+      "thumbnail": "https://i.ytimg.com/vi/7r8RJ_SZGME/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AbYIgAKAD4oCDAgAEAEYXyBlKCYwDw==&rs=AOn4CLDYjOfaYq_LXgxWDGNPDce7T71HbQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "2 Minute JS | JavaScript Tutorials for Beginners | Free JavaScript Course",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOnz4d9hZlEVnh3vmmoiFvuR",
+      "thumbnail": "https://i.ytimg.com/vi/mm3EuqSOEqQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJQrcLz1nXfFxa_Ddxnb841VqdcA",
+      "domain": "Programming"
+    },
+    {
+      "title": "Portfolio Website | Awwwards",
+      "lessons": 10,
+      "videoCount": 10,
+      "url": "https://www.youtube.com/playlist?list=PLbtI3_MArDOkVji53VGRyQIPBOi1nB8rC",
+      "thumbnail": "https://i.ytimg.com/vi/XaEmcDMU01w/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCREPJPgbr9Ssu1Fo9qjzIuAOrsSg",
+      "domain": "Other"
+    }
+  ],
+  "stats": {
+    "total_playlists": 19,
+    "total_videos": 155
+  }
+}

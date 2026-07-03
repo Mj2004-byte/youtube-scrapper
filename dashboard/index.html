@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EdTech Content Intelligence — Market Dashboard</title>
+<meta name="description" content="AI-powered YouTube course analytics and EdTech market research dashboard. Scrape any channel live.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ───────── ANIMATED BACKGROUND ───────── -->
+<div class="bg-grid"></div>
+<div class="glow glow-1"></div>
+<div class="glow glow-2"></div>
+<div class="glow glow-3"></div>
+
+<!-- ───────── NAVBAR ───────── -->
+<nav id="navbar">
+  <div class="nav-inner">
+    <div class="nav-brand">
+      <span class="brand-icon">📊</span>
+      <span class="brand-text">EdTech<span class="brand-accent">Intel</span></span>
+    </div>
+    <div class="nav-links">
+      <a href="#hero" class="nav-link active">Home</a>
+      <a href="#overview" class="nav-link">Overview</a>
+      <a href="#domains" class="nav-link">Domains</a>
+      <a href="#courses" class="nav-link">Courses</a>
+      <a href="#insights" class="nav-link">AI Insights</a>
+    </div>
+    <div class="nav-meta">
+      <span class="pulse-dot" id="statusDot"></span>
+      <span class="meta-text" id="statusText">Ready</span>
+    </div>
+  </div>
+</nav>
+
+<!-- ───────── HERO ───────── -->
+<header id="hero">
+  <div class="hero-content">
+    <div class="hero-badge">🤖 AI-Powered Market Intelligence</div>
+    <h1>EdTech Content<br><span class="gradient-text">Intelligence Dashboard</span></h1>
+    <p class="hero-sub">Scrape any YouTube channel live · Domain classification · Content gap detection · Strategic insights</p>
+
+    <!-- ═══ SCRAPE INPUT ═══ -->
+    <div class="scrape-control" id="scrapeControl">
+      <div class="scrape-input-group">
+        <div class="scrape-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        </div>
+        <input type="text" id="channelInput" placeholder="Paste YouTube channel URL  (e.g. https://www.youtube.com/@freecodecamp)" autocomplete="off">
+        <button id="scrapeBtn" onclick="promptScrapeMode()">
+          <span class="btn-text">🚀 Scrape Channel</span>
+          <span class="btn-loader" style="display:none;">
+            <span class="spinner"></span> Scraping...
+          </span>
+        </button>
+      </div>
+      <div class="scrape-hint">Try: <button class="hint-chip" onclick="fillChannel('https://www.youtube.com/@IITMadrasBSDegreeProgramme')">IITM BS</button>
+        <button class="hint-chip" onclick="fillChannel('https://www.youtube.com/@mitocw')">MIT OCW</button>
+        <button class="hint-chip" onclick="fillChannel('https://www.youtube.com/@freecodecamp')">freeCodeCamp</button>
+        <button class="hint-chip" onclick="fillChannel('https://www.youtube.com/@3blue1brown')">3Blue1Brown</button>
+        <button class="hint-chip" onclick="fillChannel('https://www.youtube.com/@Fireship')">Fireship</button>
+      </div>
+    </div>
+
+    <!-- ═══ CHANNEL SELECTOR (shows saved channels) ═══ -->
+    <div class="channel-selector" id="channelSelector">
+      <span class="selector-label">📂 Saved Channels:</span>
+      <div class="channel-chips" id="channelChips">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+
+    <!-- ═══ ACTIVE CHANNEL BANNER ═══ -->
+    <div class="active-channel" id="activeChannel" style="display:none;">
+      <div class="active-channel-inner">
+        <div class="active-channel-info">
+          <span class="active-label">Viewing:</span>
+          <span class="active-name" id="activeChannelName"></span>
+          <span class="active-meta" id="activeChannelMeta"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-stats" id="heroStats">
+      <!-- Filled by JS -->
+    </div>
+  </div>
+</header>
+
+<!-- ───────── SCRAPE PROGRESS ───────── -->
+<div class="scrape-progress" id="scrapeProgress" style="display:none;">
+  <div class="progress-inner">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    <p class="progress-text" id="progressText">Initializing scraper...</p>
+  </div>
+</div>
+
+<!-- ───────── OVERVIEW SECTION ───────── -->
+<section id="overview" class="section">
+  <div class="section-header">
+    <span class="section-tag">Analytics</span>
+    <h2>Market Overview</h2>
+    <p>Real-time analysis of educational content across tracked channels</p>
+  </div>
+  <div class="stats-grid" id="statsGrid">
+    <!-- Filled by JS -->
+  </div>
+  <div class="charts-row">
+    <div class="chart-card">
+      <div class="chart-title">Domain Distribution</div>
+      <div class="chart-wrap"><canvas id="domainPieChart"></canvas></div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">Content Depth by Domain</div>
+      <div class="chart-wrap"><canvas id="depthBarChart"></canvas></div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────── DOMAINS SECTION ───────── -->
+<section id="domains" class="section">
+  <div class="section-header">
+    <span class="section-tag">Classification</span>
+    <h2>Domain Breakdown</h2>
+    <p>AI-categorized content domains with lesson distribution</p>
+  </div>
+  <div class="domain-cards" id="domainCards">
+    <!-- Filled by JS -->
+  </div>
+</section>
+
+<!-- ───────── COURSES TABLE ───────── -->
+<section id="courses" class="section">
+  <div class="section-header">
+    <span class="section-tag">Database</span>
+    <h2>Course Catalog</h2>
+    <p>Complete inventory of scraped courses with filtering</p>
+  </div>
+  <div class="table-controls">
+    <div class="search-box">
+      <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="text" id="searchInput" placeholder="Search courses...">
+    </div>
+    <div class="filter-chips" id="filterChips">
+      <button class="chip active" data-filter="all">All</button>
+      <!-- Filled by JS -->
+    </div>
+  </div>
+  <div class="table-card">
+    <table id="coursesTable">
+      <thead>
+        <tr>
+          <th class="th-num">#</th>
+          <th class="th-title sortable" data-sort="title">Course Title <span class="sort-arrow">↕</span></th>
+          <th class="th-domain">Domain</th>
+          <th class="th-lessons sortable" data-sort="lessons">Lessons <span class="sort-arrow">↕</span></th>
+          <th class="th-depth">Depth</th>
+          <th class="th-link">Link</th>
+        </tr>
+      </thead>
+      <tbody id="coursesBody">
+        <!-- Filled by JS -->
+      </tbody>
+    </table>
+  </div>
+  <div class="table-footer" id="tableFooter"></div>
+</section>
+
+<!-- ───────── AI INSIGHTS ───────── -->
+<section id="insights" class="section">
+  <div class="section-header">
+    <span class="section-tag">AI Analysis</span>
+    <h2>Strategic Insights</h2>
+    <p>AI-generated content strategy recommendations</p>
+  </div>
+  <div class="insights-grid" id="insightsGrid">
+    <!-- Filled by JS -->
+  </div>
+</section>
+
+<!-- ───────── PIPELINE SECTION ───────── -->
+<section id="pipeline" class="section">
+  <div class="section-header">
+    <span class="section-tag">Architecture</span>
+    <h2>How It Works</h2>
+    <p>End-to-end automated intelligence pipeline</p>
+  </div>
+  <div class="pipeline-flow">
+    <div class="pipe-step">
+      <div class="pipe-icon">📡</div>
+      <div class="pipe-label">Scrape</div>
+      <div class="pipe-desc">Playwright crawls any YouTube channel, auto-scrolls, and extracts course metadata</div>
+    </div>
+    <div class="pipe-arrow">→</div>
+    <div class="pipe-step">
+      <div class="pipe-icon">🏷️</div>
+      <div class="pipe-label">Classify</div>
+      <div class="pipe-desc">Courses auto-categorized into 8+ domains via keyword + AI classification</div>
+    </div>
+    <div class="pipe-arrow">→</div>
+    <div class="pipe-step">
+      <div class="pipe-icon">📈</div>
+      <div class="pipe-label">Analyze</div>
+      <div class="pipe-desc">Domain distribution, depth scoring, gap detection, and trend tracking</div>
+    </div>
+    <div class="pipe-arrow">→</div>
+    <div class="pipe-step">
+      <div class="pipe-icon">🤖</div>
+      <div class="pipe-label">AI Insights</div>
+      <div class="pipe-desc">Strategic summaries and content recommendations generated automatically</div>
+    </div>
+    <div class="pipe-arrow">→</div>
+    <div class="pipe-step">
+      <div class="pipe-icon">📊</div>
+      <div class="pipe-label">Report</div>
+      <div class="pipe-desc">Interactive dashboard + channel comparison + export capabilities</div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────── FOOTER ───────── -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">📊 EdTech<span class="brand-accent">Intel</span></div>
+    <div class="footer-text">Automated Market Intelligence Pipeline · Built with Python, Playwright, FastAPI & Chart.js</div>
+    <div class="footer-tech">
+      <span class="tech-badge">Python</span>
+      <span class="tech-badge">FastAPI</span>
+      <span class="tech-badge">Playwright</span>
+      <span class="tech-badge">Chart.js</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ═══ Scrape Mode Modal ═══ -->
+<div class="modal-overlay" id="scrapeModeModal" style="display:none;">
+  <div class="modal-content">
+    <h3>What should we scrape?</h3>
+    <p>Some channels use the dedicated <strong>/courses</strong> tab, while others group their educational content in <strong>/playlists</strong>.</p>
+    <div class="modal-actions">
+      <button class="modal-btn primary" onclick="startScrape('courses')">🎓 Courses Tab</button>
+      <button class="modal-btn secondary" onclick="startScrape('playlists')">📺 Playlists Tab</button>
+    </div>
+    <button class="modal-close" onclick="closeScrapeModal()">Cancel</button>
+  </div>
+</div>
+
+<!-- ═══ Toast Notification ═══ -->
+<div class="toast-container" id="toastContainer"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

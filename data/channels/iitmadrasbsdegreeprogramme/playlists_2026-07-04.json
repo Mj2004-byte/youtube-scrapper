@@ -1,0 +1,2072 @@
+{
+  "channel": {
+    "name": "@IITMadrasBSDegreeProgramme",
+    "handle": "@IITMadrasBSDegreeProgramme",
+    "slug": "iitmadrasbsdegreeprogramme",
+    "url": "https://www.youtube.com/@IITMadrasBSDegreeProgramme",
+    "subscribers": null,
+    "scraped_at": "2026-07-04T00:09:36.718837"
+  },
+  "playlists": [
+    {
+      "title": "IITM B.S. Degree toppers (2025)",
+      "lessons": 18,
+      "videoCount": 18,
+      "url": "https://www.youtube.com/playlist?list=PLSPNnLTYQQ0o",
+      "thumbnail": "https://i.ytimg.com/vi/L-7yQcVqTsA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyBKKH8wDw==&rs=AOn4CLCAZX_Jsk0NwO5C7izg3lqz_PQtjA",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session June 2026",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa1xm2Mp_mBs_blGlB-gD0-",
+      "thumbnail": "https://i.ytimg.com/vi/VGHj7roWqUA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDP8zZvFoWQnsJlcIQYfF7Whlua_A",
+      "domain": "Other"
+    },
+    {
+      "title": "Business Data Management - 2026",
+      "lessons": 14,
+      "videoCount": 14,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa-of1QArkUn9ZOUhDHp3Ic",
+      "thumbnail": "https://i.ytimg.com/vi/6hoVuzGUuF8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCMyfhYFOVreLs2NqktLtDceY7d0Q",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Compiler Design - Prof. Partha Pratim Das",
+      "lessons": 10,
+      "videoCount": 10,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYCbCt4P6OdPBBlA8Gf-jbW",
+      "thumbnail": "https://i.ytimg.com/vi/plHDNr3gbNQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAG2HEFMUQaotutRdVes1bDbSkQVw",
+      "domain": "Other"
+    },
+    {
+      "title": "Discrete Mathematics",
+      "lessons": 21,
+      "videoCount": 21,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcPeX-pN3qza7zY21FMg28",
+      "thumbnail": "https://i.ytimg.com/vi/hB_BnTtpyhE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBYKEYwDw==&rs=AOn4CLCT1OeEOew5b63SVcMOa1WitCf8vg",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Our Student | IITM BS Degree | Toppers - 2025",
+      "lessons": 60,
+      "videoCount": 60,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYWCjlvfHDfWvKQKObaS8pe",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "BS Interaction with Schools - March 2026",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ25M1iupSgPStKBIrqk0l3",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 - Feb 2026",
+      "lessons": 32,
+      "videoCount": 32,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYFPjxTc3BAgcHchAA2GL_d",
+      "thumbnail": "",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "CT_FEB 26",
+      "lessons": 29,
+      "videoCount": 29,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbFWZHd_MXThFWlHyZqbV49",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session Jan 2026",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcYhbGYcVqO4shIEwKFPwa",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Speech Technology Updated version",
+      "lessons": 68,
+      "videoCount": 68,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYZs2wJSKgfO_cKaKd7L_Eu",
+      "thumbnail": "https://i.ytimg.com/vi/pFOX4COOPQA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBA84JSyTwPNdba1QKXe94UtlGHbA",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Theory of Computation -  Prof. Partha Pratim Das",
+      "lessons": 45,
+      "videoCount": 45,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaZ19hI3zkXKuTapkBRuoEN",
+      "thumbnail": "https://i.ytimg.com/vi/BePZnIKHx9U/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYJiAkKH8wDw==&rs=AOn4CLBZJA0Yr3GwelsVCpHq2GqYmxDtJw",
+      "domain": "Other"
+    },
+    {
+      "title": "Jan 2026 - Orientation",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbvYscsONpULZMrx-ufH7Yr",
+      "thumbnail": "https://i.ytimg.com/vi/OrQfFzId5_Y/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgayWQXe_CJ0MQgJIDKhzjcBmL_g",
+      "domain": "Other"
+    },
+    {
+      "title": "Probability and Statistics for ES",
+      "lessons": 57,
+      "videoCount": 57,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZfGmHZmrKOjwoeSDLXZX_z",
+      "thumbnail": "https://i.ytimg.com/vi/k4oWqYT6tjk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYOCBIKHIwDw==&rs=AOn4CLBsUX5mYMGBGBplScCj0pxt0bPnjQ",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Portrait of Many Faces",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZhPhzkNM3IcmXolv6aca51",
+      "thumbnail": "https://i.ytimg.com/vi/25zaBzdVEuQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBiMQc7vuqXcDZkuqcwpSPinqeCVg",
+      "domain": "Other"
+    },
+    {
+      "title": "Toppers",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZDczW9pP7zcSGYVBxat2XK",
+      "thumbnail": "https://i.ytimg.com/vi/g-jlPWJHSdk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsnsyQcGWGr5xcUdBXlJwOfqPDqQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Linear Statistical Models _ 2025",
+      "lessons": 46,
+      "videoCount": 46,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYsa75y9R0m4VgsXckZwgEy",
+      "thumbnail": "https://i.ytimg.com/vi/bdhBAVvPGkY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAISB-F5mIAM0Go_GenJZIrGFYZ0g",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 - Oct 2025",
+      "lessons": 30,
+      "videoCount": 30,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbk9w9WG7CJJHZgGFXFhHa0",
+      "thumbnail": "https://i.ytimg.com/vi/vNjDT9k0yLg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAA34uO-60uc2q2crk3OaaihB0gUA",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Stats 1 - Live Session Sep 2025",
+      "lessons": 34,
+      "videoCount": 34,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZRzw2yhDl2-6OcvcTKUKbw",
+      "thumbnail": "https://i.ytimg.com/vi/yYlqJL6DRCI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAgLTAgF52A1SVR2gPxYJxZHtRyfQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Statistics for Data Science_2 - Hindi Course",
+      "lessons": 40,
+      "videoCount": 40,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbZoaHbB3uoGgER8cYegDQe",
+      "thumbnail": "https://i.ytimg.com/vi/gsP6KC4hRvA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYMiBkKGUwDw==&rs=AOn4CLDifyQINMkzX9g18Iam1hn50W63-Q",
+      "domain": "Data Science"
+    },
+    {
+      "title": "CT Live - Sept 25",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbUkoep2aKsp86jq27kxbHu",
+      "thumbnail": "https://i.ytimg.com/vi/aPKyaUnhYQg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYbCBsKGwwDw==&rs=AOn4CLDol4vxt8I2ibni5bq22G3GhZMFyQ",
+      "domain": "Other"
+    },
+    {
+      "title": "CT Live - May_August Term 25",
+      "lessons": 29,
+      "videoCount": 29,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBan0SqZFz_HWagONzOIPQJy",
+      "thumbnail": "https://i.ytimg.com/vi/3MIZVoM_6mA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYbCBsKGwwDw==&rs=AOn4CLAfAUL-1tcjCYjj2NpK2ipy5G9unw",
+      "domain": "Other"
+    },
+    {
+      "title": "Orientation Sep 2025",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZk4QNG1pxoxTlpV30WsOv9",
+      "thumbnail": "https://i.ytimg.com/vi/iKi02KMjrAU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCWL5BCsMkaesVcaBiG_tGRPAxYA",
+      "domain": "Other"
+    },
+    {
+      "title": "Introduction to DL and GenAI - Prof. Balaji Srinivasan , Prof. Ganapathy Krishnamurthi",
+      "lessons": 117,
+      "videoCount": 117,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa9hqi20allqocTSUUt3nWX",
+      "thumbnail": "https://i.ytimg.com/vi/Z7t12UH0cyY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxo2uGJROWRPS1z4NWdSTo5gYFXA",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Computer Networks",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaKdpWeU8cn9czsZVCRUT0s",
+      "thumbnail": "https://i.ytimg.com/vi/kCW571j7LUQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBXiP9N7NlfKtn3EkTqm6T8op64Ig",
+      "domain": "Other"
+    },
+    {
+      "title": "Data Science and AI Lab",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY2mF37X5fxghOacvr-HJZu",
+      "thumbnail": "https://i.ytimg.com/vi/gnnVeE99k6Q/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHMnMeQmYAK1fkmVQxTQ5wZmVCQQ",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Application Development lab",
+      "lessons": 57,
+      "videoCount": 57,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbIR9wOMdUPGiL5zDh17MJe",
+      "thumbnail": "https://i.ytimg.com/vi/ro6Z0XJ9LlI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYNsWXIPJRiXoA0az0hMcQnVuNeQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Updates on Recent Meeting",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZU0Zi1Xj1PFaKVJY8HPyKD",
+      "thumbnail": "https://i.ytimg.com/vi/DuA8rTO_Gt8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWfJ49ZCPZEki-xZPES6NmN555iA",
+      "domain": "Other"
+    },
+    {
+      "title": "Paradox Workshops '25",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYb_DAn1gC8SI1aOfVaIRDR",
+      "thumbnail": "https://i.ytimg.com/vi/JZGRrj8wHpM/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYTyBIKGUwDw==&rs=AOn4CLBlKNNRsVAlQfXQlY2waIniSf0tBA",
+      "domain": "Other"
+    },
+    {
+      "title": "Mathematics for Data Science - 2 Hindi",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaelnpm7ZtHQZxUSreojJTE",
+      "thumbnail": "https://i.ytimg.com/vi/IPrSvGIrMMw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYVyBVKGUwDw==&rs=AOn4CLBxthoI1riTA2777p42m6EZZHmGlA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BS Degree Workshop - 2025",
+      "lessons": 37,
+      "videoCount": 37,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbORwkqeEsPJp1bogRwfW_Y",
+      "thumbnail": "https://i.ytimg.com/vi/3XCKlYmQaKs/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLC8wgCWknCg38miovlgPth5V7nFnw",
+      "domain": "Other"
+    },
+    {
+      "title": "Qualifier May 2025 Orientation",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaZAzE6V_pUNTx8gLTUivUV",
+      "thumbnail": "https://i.ytimg.com/vi/fN3qj4Ob4MM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfx6HDO16EVhDqcKQWzD2HwI1-cg",
+      "domain": "Other"
+    },
+    {
+      "title": "CT - May 25",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbf4WWO2EaO34YYIymhG9y7",
+      "thumbnail": "https://i.ytimg.com/vi/S9L_zeqPPzo/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYSSBRKGUwDw==&rs=AOn4CLA8N1eJr0tiBXnx7C8o_plEdtjtrQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session May 2025",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ6dewk6gglbGo3z629XGiE",
+      "thumbnail": "https://i.ytimg.com/vi/0LCkT6xiyYE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRyBKKGUwDw==&rs=AOn4CLBAinZB3lY43jP_SwAtloxsXpKjtg",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths1 - May 2025",
+      "lessons": 36,
+      "videoCount": 36,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbdYTUPzv7jgAOGpYnlHUfh",
+      "thumbnail": "",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Qualifier videos 2025",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbyjG-Evla7VElbbQW9ij5n",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "About IIT Madras BS Degree",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa_BCh_J0Bk4PU3fwffAvWl",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Machine Learning Operations (MLOps)  - Rangarajan Vasudevan",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaAR2w3oX5yMIQA8pUo5zt2",
+      "thumbnail": "",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Mathematical Foundations of Generative AI",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu",
+      "thumbnail": "",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Algorithms for Data Science (ADS) - Prof. Arun Rajkumar",
+      "lessons": 50,
+      "videoCount": 50,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBat4cHvuMj9-ubTsKsgkaBh",
+      "thumbnail": "https://i.ytimg.com/vi/BSQs_6sQDWY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAwvBmNJRQcJrJiXAynTerguxos_w",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Orientation - April 2025",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYDKRPch7WKLjDROtDUC6td",
+      "thumbnail": "https://i.ytimg.com/vi/aG5Gt1PFiE4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhKTiwlJkds1Y6yVLYzKjc4olucg",
+      "domain": "Other"
+    },
+    {
+      "title": "Computational Thinking - Hindi",
+      "lessons": 29,
+      "videoCount": 29,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZfS4xedW9beQ-JwyMRJV7z",
+      "thumbnail": "https://i.ytimg.com/vi/eHcHSFcT_Hc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYIyAkKH8wDw==&rs=AOn4CLCksml2K4rQfImmZgHIPz601XKMGg",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Soft skills course orientation",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZhXDBTpTiWbxO4eOeVeIAI",
+      "thumbnail": "https://i.ytimg.com/vi/tOWYw-RYMe8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCeuotcKm52bQePTcS6vBkVEX1wkw",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Our Student | IITM BS Degree | Toppers - 2024",
+      "lessons": 100,
+      "videoCount": 100,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZOvWZK3aCPk5R7WpP7ZgvC",
+      "thumbnail": "https://i.ytimg.com/vi/KD4n_aB30ZM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBv5j4IBBSuZlzCXZZUICowc7aGRA",
+      "domain": "Other"
+    },
+    {
+      "title": "CT - Jan 2025",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb60FldIf6UbXjTv_Tf0wKv",
+      "thumbnail": "https://i.ytimg.com/vi/0K10TeGVDmA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYbCBsKGwwDw==&rs=AOn4CLBLBq591tgkorQ4bEUbgFe83QmTIQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths1 - Jan 2025",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYMo_inCHEaIrhrXCkfZQdy",
+      "thumbnail": "https://i.ytimg.com/vi/B3riuQR2rGw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLDt6XsWgRajOEMI8tC83EK-ch0R_w",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Stats 1 - Live Session Jan 2025",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ41j6eh8PW9zf0bCD90rXd",
+      "thumbnail": "https://i.ytimg.com/vi/pW5RJn0jovU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBfEr-ZCXl6tHh0NAj3W3n_i81IdQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Orientation Jan 2025",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaRzfzPcUwMeW0CgnwE6wPf",
+      "thumbnail": "https://i.ytimg.com/vi/0oUuG_sEB7w/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLBW68REKCkghsss_EMPhUXF3lB1dA",
+      "domain": "Other"
+    },
+    {
+      "title": "MTech Degree announcement",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZnsIZ5Kb5Da9TDjPE8-iz4",
+      "thumbnail": "https://i.ytimg.com/vi/_Y3RBxlAe-0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC01xZzlVzQDrKip4E2MVM__aXITQ",
+      "domain": "Other"
+    },
+    {
+      "title": "April '24 BS Feedback",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbqRsbpwLXGYjSexM9Sen68",
+      "thumbnail": "https://i.ytimg.com/vi/UBqqltVOA7Y/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBHKDswDw==&rs=AOn4CLAUsT21qDlVoDESpiPFOdjszTJQLQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats2_AQ/PA/GA_Solutions_Recording_By_TAs",
+      "lessons": 11,
+      "videoCount": 11,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZRIoBiYDu0AQsQfahorqkj",
+      "thumbnail": "https://i.ytimg.com/vi/AW-Q5CyI1Pg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCetyEwLJVT30tQgWT-ZEKDdY2-gg",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 - Assignment Solution videos",
+      "lessons": 44,
+      "videoCount": 44,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaRMBe7qciyryyT8eBbEUhD",
+      "thumbnail": "https://i.ytimg.com/vi/yCECUPci8g4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYbCBsKGwwDw==&rs=AOn4CLDwq1sx1caCk0f2hgOXHj1CJMSQ6g",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Maths1 - Sep 2024",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaUt64Q1_bR5OZimRcApRzE",
+      "thumbnail": "https://i.ytimg.com/vi/lJBHfQwEeQQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLBQwGEYbq1H_5y-36OOSCxDii1_ZA",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Stats 1 - Live Session Sep 2024",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbzZbNS_MIcotdo_ZdqjOcB",
+      "thumbnail": "https://i.ytimg.com/vi/kacNqpkOovI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBsb9ryi7oWWOtsgz-SD1HXXqUbYg",
+      "domain": "Other"
+    },
+    {
+      "title": "Orientation - Sep 2024",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZZs-3ecB5hQznulpVGzwNz",
+      "thumbnail": "https://i.ytimg.com/vi/qW_EY-K2kGA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAzYGVblWdA6Tme3mC4-jYOhfTCfw",
+      "domain": "Other"
+    },
+    {
+      "title": "Deep Learning Practice | Prof. Mitesh | Umesh | Kaushik | 2024 Sept",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBboCdRjlzBGldokL4VCgaam",
+      "thumbnail": "https://i.ytimg.com/vi/Z0RRq4ripbA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALx4UbcBrlUs-JctOm7FIx0hdbOw",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Corporate Finance Sep 2024",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYz9OvEn3Ld29sHzsMxPNvO",
+      "thumbnail": "https://i.ytimg.com/vi/rfphPT3bg3Y/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqsrvgonD6-WaeTnTfefOz1b5s5g",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Introduction to Natural Language Processing (i-NLP)",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY8Mbke8rzGsACDQlIOcCqH",
+      "thumbnail": "https://i.ytimg.com/vi/XRpJMxLaLeA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAyQszOEvyk6w_wYhszIPFPVBJtPw",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Deep Learning for Computer Vision - Prof. Vineeth",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaIKFArDBUxbXf-8a8NvOsT",
+      "thumbnail": "https://i.ytimg.com/vi/ztL75ErgYPo/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AfAJgALQBYoCDAgAEAEYRSBZKHIwDw==&rs=AOn4CLCgt8XwI_a_M_yHifpCc_Z_3IRG8w",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Convocation '24",
+      "lessons": 12,
+      "videoCount": 12,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBajniNOM4qceYzyXjtv2dXg",
+      "thumbnail": "https://i.ytimg.com/vi/Ed0eBCuOxrU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2P0rQKoxj2tSJ_rFcTPcn67-q0A",
+      "domain": "Other"
+    },
+    {
+      "title": "MLP Tutorials",
+      "lessons": 7,
+      "videoCount": 7,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZLcKmaNjTBWILjG8q1p_Ms",
+      "thumbnail": "https://i.ytimg.com/vi/qx2QZWlEuFk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBqqIvP-ELVaIO-IRynY5Ej0z0RcQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Mathematics for data Science - 1 (Hindi)",
+      "lessons": 90,
+      "videoCount": 90,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb1AyRNidKBrk_N5eTpVQRA",
+      "thumbnail": "https://i.ytimg.com/vi/WVYzSqyYvaw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYJyAhKH8wDw==&rs=AOn4CLBmzJaqGevKDHrz0GPcecUCA6wZeA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Statistics for Data Science - Hindi Course",
+      "lessons": 70,
+      "videoCount": 70,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbhK4gNFIWwx9cct193V0_b",
+      "thumbnail": "https://i.ytimg.com/vi/nHe1nYmtAy0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWiBZKGUwDw==&rs=AOn4CLBj86dynRzyyVIM4P5SNPK7fh-Qsg",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Paradox '24 Testimonials",
+      "lessons": 23,
+      "videoCount": 23,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaWAp6vPXQxeQD3zmAtqCXO",
+      "thumbnail": "https://i.ytimg.com/vi/oo3vAh2yx7Q/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBRKEIwDw==&rs=AOn4CLCw0lczzeD66y3mgUb7LnvSoO8hOQ",
+      "domain": "Other"
+    },
+    {
+      "title": "School Connect Orientation",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY5fSfAUo6nio26BqsVC9WM",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Feedback '24",
+      "lessons": 28,
+      "videoCount": 28,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZhc7RHgiJHCvtiUXBntUdd",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Higher Education Sessions - Highlights",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaL0J52GA-ul21fzunhOO3v",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Society Live July'24",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZydFYEzmPh8xuliH_Llv6t",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "CodeCrafters house",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZejqv1MyOxVbwm5rYaZ7iw",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session June 2024",
+      "lessons": 43,
+      "videoCount": 43,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYUBRlg3fK9r6MHnCpigiwB",
+      "thumbnail": "https://i.ytimg.com/vi/c7GBKut9QPc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC3Et6FwP-oNBCKa4xypcwiM3fnvw",
+      "domain": "Other"
+    },
+    {
+      "title": "Paradox Workshop - 2024",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY3K4PxcsEQPIVQyBpI5-hn",
+      "thumbnail": "https://i.ytimg.com/vi/s7rgWEIky_Y/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqTHTme5hQ5x2mwaq4QhnOjfOvBA",
+      "domain": "Other"
+    },
+    {
+      "title": "CT - June 2024",
+      "lessons": 19,
+      "videoCount": 19,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYiiwZ6dytNHc0_fESI-sbE",
+      "thumbnail": "https://i.ytimg.com/vi/5ALIavqNp5w/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBSfi7ve5vEvsnHpDbIo8uT9KRB1w",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 - May 2024",
+      "lessons": 42,
+      "videoCount": 42,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa-JQeQSGPLTbmgf0VD6JCu",
+      "thumbnail": "https://i.ytimg.com/vi/s2cOLt8Dpa8/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBnkGEJ-TQKGE1qX8GNB0YBYu5AKQ",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Orientation Qualifier May'24",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZYt60WTLTvBU7tIsh_j96F",
+      "thumbnail": "https://i.ytimg.com/vi/Kjk-EeNT6kY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-K1PG6WB9tSmVR1QZhMRl4eFjgw",
+      "domain": "Other"
+    },
+    {
+      "title": "Game Theory and Strategy",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbLzN1YMVO67miZP26eUYcR",
+      "thumbnail": "https://i.ytimg.com/vi/UBeuMx90d74/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBlwckdv9aWX1UkqCapioUgFheQDw",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "MLP Workshop May 2024",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYzCsuCMIXgDlaP8lfZm_6g",
+      "thumbnail": "https://i.ytimg.com/vi/m9yRTGV9XQ0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBUdnhwVL1tG_NzlcYcmIdySpDEIQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Introduction to big data",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZEqTKkEoVT1fRg--uQLYk0",
+      "thumbnail": "https://i.ytimg.com/vi/4apoFosOauA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBdVWOlVc-I3-pLJuB8ZjIpCAjU4A",
+      "domain": "Data Science"
+    },
+    {
+      "title": "All you need to know about IITM BS Degree  | Listedn in Hindi | Ms. Bharathi | Head of operations | 2024",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaHaCKx9QsUxyF-yxgQkSD9",
+      "thumbnail": "https://i.ytimg.com/pl_c/PLZ2ps__7DhBaHaCKx9QsUxyF-yxgQkSD9/studio_square_thumbnail.jpg?sqp=CNP3n9IG-oaymwEICPABEPABSFqi85f_AwYItoPDsQY=&rs=AOn4CLDI1ERbgjqPOwgmDs5EUZ0E0HWG3Q",
+      "domain": "Other"
+    },
+    {
+      "title": "All you need to know about IIT Madras BS Degree | Ms. Bharathi | Head of operations | 2025",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ0hTipFqkWTb4kMf6fg_Vo",
+      "thumbnail": "https://i.ytimg.com/pl_c/PLZ2ps__7DhBZ0hTipFqkWTb4kMf6fg_Vo/studio_square_thumbnail.jpg?sqp=CLTXn9IG-oaymwEICPABEPABSFqi85f_AwYI5oLDsQY=&rs=AOn4CLDtSgc91F0VF6kwnfbc5DUbOIycjg",
+      "domain": "Other"
+    },
+    {
+      "title": "BS Degree Toppers 2023",
+      "lessons": 21,
+      "videoCount": 21,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa4gAuvsift-jElx0BgDjif",
+      "thumbnail": "https://i.ytimg.com/vi/J2TgM7oIzkg/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4eie_AIpRz4LAm6F0moMHbEwXFA",
+      "domain": "Other"
+    },
+    {
+      "title": "IITM BS in Data Science program: Know more: Qualifier to Foundation",
+      "lessons": 11,
+      "videoCount": 11,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYXPpizAKIic7od4GuOhjyj",
+      "thumbnail": "https://i.ytimg.com/vi/a2RROGyIkqI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyAwKF0wDw==&rs=AOn4CLDEAT9pAL4XNJ9kBiopnm7DQG-IUw",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BS Degree Promo'24",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYpbHs3sscqt_wg05bsuGro",
+      "thumbnail": "https://i.ytimg.com/vi/lEMtlAqlJww/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1MsgfrFvpQHeip4DlOXqmfX9mhQ",
+      "domain": "Other"
+    },
+    {
+      "title": "IITM BS: Toppers/Prize Winners of 2023",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZs9jMcX7-CGjB44MwnsW1r",
+      "thumbnail": "https://i.ytimg.com/vi/p1qJqUsK5W0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBSKD4wDw==&rs=AOn4CLDrbL8S7-EjQmBOLr2Mr_zpx0MOPg",
+      "domain": "Other"
+    },
+    {
+      "title": "BS Degree Internships",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbsIBvGyjWKm078Qc6pvs8P",
+      "thumbnail": "https://i.ytimg.com/vi/Pf5Kf90JCKU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDm4esAGEVu0YwkoFnouTbZRZz-LQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Deep Learning Workshop",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ2SJesWPtsowraJcSdanc3",
+      "thumbnail": "https://i.ytimg.com/vi/xE5tNEjQ5Xc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAm2IMSmDyU2rMtC2j9zFob1mMlBQ",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Maths1 jan 2024",
+      "lessons": 34,
+      "videoCount": 34,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa8IUF-959nLkKxm7V78UXk",
+      "thumbnail": "https://i.ytimg.com/vi/3hRTvhFZ2b4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB_yvEyT8gmUEHEfLxihZ25EFQpCw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Stats 1 - Live Session Jan 2024",
+      "lessons": 39,
+      "videoCount": 39,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZn0HX0B_An_-K9ifOHaN-s",
+      "thumbnail": "https://i.ytimg.com/vi/ZU1s_k6kWX4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBO9c5buwDTiCeq69HAZeVhTLo4sQ",
+      "domain": "Other"
+    },
+    {
+      "title": "CT _ Jan 2024",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY0uCWhfAZNVXGaxpQ_ZAG8",
+      "thumbnail": "https://i.ytimg.com/vi/2kHZfzV76us/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWCBlKGUwDw==&rs=AOn4CLDx2mL-YX6BoBUBJ0oRP2wiFPPZaQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Foundation, Diploma, Degree Orientation videos",
+      "lessons": 40,
+      "videoCount": 40,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBarYRUJn9ymzaG1ULtUNqVu",
+      "thumbnail": "https://i.ytimg.com/vi/FhjQZQEI0Lw/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-wNfXgoGhRvz03uYKeNMyldiOdw",
+      "domain": "Other"
+    },
+    {
+      "title": "Introduction to large language models",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo",
+      "thumbnail": "https://i.ytimg.com/vi/qrsNX1Rwle0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCsqUaQEG0gdEHYZKNLpZzMcrBLyA",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Managerial Economics Jan 2024",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaUpIodIKDFj_5JznWTxp1E",
+      "thumbnail": "https://i.ytimg.com/vi/riPX7RQRaio/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAA7GV33giUjD_-bajaE56-VNxAQ",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Design Thinking for Data-Driven App Development",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY8qCdR1QYoUx8tkPST6UJK",
+      "thumbnail": "https://i.ytimg.com/pl_c/PLZ2ps__7DhBY8qCdR1QYoUx8tkPST6UJK/studio_square_thumbnail.jpg?sqp=CLzwn9IG-oaymwEICKoDEPABSFqi85f_AwYIz7_EuwY=&rs=AOn4CLB4BXJFBluKtRvDCTQOd8WGQ4pQuA",
+      "domain": "Foundational"
+    },
+    {
+      "title": "ORIENTATION JAN'24",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbipmjoeGqgWd-EGn1pbQNE",
+      "thumbnail": "https://i.ytimg.com/vi/5e16HiZWwWI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBSKEcwDw==&rs=AOn4CLCfH3XOMfH1YqE3maVJX9hOAB3vIQ",
+      "domain": "Other"
+    },
+    {
+      "title": "MLT Workshop - Jan'24",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZZi8I7Thy5fJWAG_E8zQwD",
+      "thumbnail": "https://i.ytimg.com/vi/anVq1CVRerc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLASeKbJUFCUbAX9O4A6SStzMDxJUw",
+      "domain": "Other"
+    },
+    {
+      "title": "Operating Systems - Prof. Chester",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYcwlZ7GPCBzbowmiiF4BYR",
+      "thumbnail": "",
+      "domain": "Programming"
+    },
+    {
+      "title": "BS Degree Promotion",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaPT37YSR29Sm6ERVvC5_1G",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "BS Degree Student Feedback Oct 2023",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaMunSFZtyy8m33F1VfQA7N",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Special Lecture Series",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbFZy6m7VejK5Z7rWr-gKim",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "BS Degree Student feedback September 2023",
+      "lessons": 11,
+      "videoCount": 11,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYSyUdyTXTuS-y9aHjQnr9z",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "CT - Sept",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY27CfmVYIRojyQuF0qKrlH",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session Sep 2023",
+      "lessons": 36,
+      "videoCount": 36,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBagzUpja3DwMEzmLRfP0y8w",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 Sep 2023",
+      "lessons": 39,
+      "videoCount": 39,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbJjahqytc4VtYZhUOpUaJS",
+      "thumbnail": "",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Introduction to computer system design",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYE2TyvAAnxTlmE4xIcAHZj",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Qualitative data analysis and Its applications",
+      "lessons": 14,
+      "videoCount": 14,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbJ9eEEBkL-YfofygpAK1of",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Mathematical Thinking - Prof. Viswanath & Prof. Amritanshu Prasad",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaHJ2g3sYSwMI_3bISH_pn4",
+      "thumbnail": "https://i.ytimg.com/vi/XS6aVTkW61o/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBt5xSaWbmNDMRjq2K8JjFeaMGwRw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Our Faculty",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaHcEn580UDKR8AJ9gzbR32",
+      "thumbnail": "https://i.ytimg.com/vi/t_VaxsArWIs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT8-5oXx4HRA9DY5GPyvGjmvb6rg",
+      "domain": "Other"
+    },
+    {
+      "title": "Sessions by Student Placement Council (SPC) - IITM BS Degree",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbkrapQbrynq98OVF3gTjRt",
+      "thumbnail": "https://i.ytimg.com/vi/UmC8RqKC4dg/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCM-M3bN_y0ljnVu9imfZX7fc-GqQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Paradox",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBatOKfn130OXFtzlA5Rj5eY",
+      "thumbnail": "https://i.ytimg.com/vi/YtqL_Xd0sLQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDkJF8fLNMjEM_3jiOj7ix2lzKJ9A",
+      "domain": "Other"
+    },
+    {
+      "title": "Paradox - Feedback - May 2023",
+      "lessons": 210,
+      "videoCount": 210,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoUosuYBBIHKrW5TIcLWyl",
+      "thumbnail": "https://i.ytimg.com/vi/uT_3kYcz-G4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBNKDgwDw==&rs=AOn4CLAt0y3AqeqgqfeqZto7W7ldlb07IQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Paradox'23 Workshop",
+      "lessons": 20,
+      "videoCount": 20,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ5bpksXolffGw_DXgwXVZN",
+      "thumbnail": "https://i.ytimg.com/vi/7SCUjZ2dxU0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyA4KFswDw==&rs=AOn4CLC7JOYF_rZk579-7vUD95CmFFJ_8A",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session May 2023",
+      "lessons": 25,
+      "videoCount": 25,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZjtb5z9Fj5EE3OdLJIGrGQ",
+      "thumbnail": "https://i.ytimg.com/vi/fMIhbLaCXxI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLABdsuKnEZAgliujihB7eew1cQYoQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Computational Thinking June 2023",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBafl7je6SmrUcm8np-0BQEY",
+      "thumbnail": "https://i.ytimg.com/vi/KX8QCOEsWTo/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDCLNXx-kLhUYWs6_1e_qpj7B812A",
+      "domain": "Foundational"
+    },
+    {
+      "title": "CODE",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ_Zw5zmYYjHyyu5TJY2ANS",
+      "thumbnail": "https://i.ytimg.com/vi/4GEGKhWFK3s/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4OgAK4CIoCDAgAEAEYQyBVKGUwDw==&rs=AOn4CLDIHZ1IXhFZSm3AXPRx6ur4Y5TkqA",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 June 2023",
+      "lessons": 39,
+      "videoCount": 39,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ9tuMKN4Cqbhm1-Mv2V66v",
+      "thumbnail": "https://i.ytimg.com/vi/X6uUFyfqmGc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAPAOpTWe7I3aTG9skKRgTrBV4K6g",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Advanced Algorithms_Prof. Neeldhara",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbq4xWFpP8kifZJ0wnVNJJ5",
+      "thumbnail": "https://i.ytimg.com/vi/VMJ2G_MU-O4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6SCndsxuDloRCkSs1LH54waxn-Q",
+      "domain": "Programming"
+    },
+    {
+      "title": "Statistical Computing_Prof. Dootika",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZxMmJF-AoxWfaZNsAtgtcz",
+      "thumbnail": "https://i.ytimg.com/vi/f-guDPcLldk/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCR5xtelXNxiigzG75QVRgrPF1eig",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Special topics in ML (Reinforcement Learning)",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbDiVplM2I9q2XNso1Qfj62",
+      "thumbnail": "https://i.ytimg.com/vi/o1ZqDbTQE6Q/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBD7KrEq7I0YNPegtjA-Mc-6a1rlg",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "iON Digital Zone iDZ Borjhar",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYlBgajxseOin73uCeKrsLb",
+      "thumbnail": "https://i.ytimg.com/vi/EFrOKWSah3k/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZiBmKGYwDw==&rs=AOn4CLB4adK_oAnOZSsJ3EtYL3Ev-JgZLA",
+      "domain": "Other"
+    },
+    {
+      "title": "iON Digital Zone iDZ Azad Puram",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ1LgsUAG97Uyes-5moh4NC",
+      "thumbnail": "https://i.ytimg.com/vi/kY9jX46uU-A/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYQyBQKGUwDw==&rs=AOn4CLCgfaPqffylly7btMhv-bO2Jgvagw",
+      "domain": "Other"
+    },
+    {
+      "title": "iON Digital Zone iDZ Thigalarapalya Main Road April 2023 - Bengaluru",
+      "lessons": 12,
+      "videoCount": 12,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZXdVbIghI0qiWuBvawAHKq",
+      "thumbnail": "https://i.ytimg.com/vi/-ew0MF3nTMA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBJKEIwDw==&rs=AOn4CLBrDNhWPDL6DfJRp156F7Cn-fBvYg",
+      "domain": "Other"
+    },
+    {
+      "title": "Ads",
+      "lessons": 9,
+      "videoCount": 9,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaRUjxFoZ59XvjXJuQ8uC3B",
+      "thumbnail": "https://i.ytimg.com/vi/oLyZkG6jiZA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuIs_y6quCJHSMrL0IWHbSG6URfQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Our Students - IITM BS degree",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbfrju17bMebO0wqpLil0qy",
+      "thumbnail": "https://i.ytimg.com/vi/lx-5hbWUcO0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA2IEdbNK_JHQAPrr8WNvwErirMAA",
+      "domain": "Other"
+    },
+    {
+      "title": "Linear Statistical Models",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb_QIWA52QQHVhpuRKBOq7g",
+      "thumbnail": "https://i.ytimg.com/vi/z1RfnVy8Oak/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYQiBMKHIwDw==&rs=AOn4CLDNaPYAggS3RmEwZSeGd-yc5IAuLA",
+      "domain": "Other"
+    },
+    {
+      "title": "CT Jan 23",
+      "lessons": 28,
+      "videoCount": 28,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYGkIJRt5t8l22iwWlIubf0",
+      "thumbnail": "https://i.ytimg.com/vi/MAAyaNH5LS4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBC81RecBE5kVwJMT3POel9CgQ7WA",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1 - Live Session Jan 2023",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZhhSDfEBUXa_fDfvV6-OoT",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 - Jan 2023",
+      "lessons": 46,
+      "videoCount": 46,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBauxWK-nCslOlKK28T58VzL",
+      "thumbnail": "",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Strategies for Professional Growth (SPG) - IIT Madras B.S. Degree",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZPxhOs5MF_V6QfRlKSm0zx",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Algorithmic Thinking in Bioinformatics",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZo3cm7feryq5oLAHbSsLEL",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Big Data and Biological Networks",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBapdXdBZInSjonWNAUL6Ycm",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Data Visualization Design",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ12NClTmMLsnU0mF9ZUSG_",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Financial Forensics",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbo9U5GQ4YTqvp2GX0EO3kq",
+      "thumbnail": "",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Privacy and Security in Online Social Media",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaKvfv3VjSZlcVueXLymjXB",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Market Research",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYYTW-bxo1D50qqpRRtzl3C",
+      "thumbnail": "",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "PSOSM Prof. PK",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZi_3H16gpmeoQ0dDzGSV2j",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "MLT to MLP",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYtYINAb1qm8Um8f4DegtMa",
+      "thumbnail": "https://i.ytimg.com/vi/h1JXR1U3ZRI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYEyBUKH8wDw==&rs=AOn4CLDmgjS9vLH30a165KHCYWwnkNmQTg",
+      "domain": "Other"
+    },
+    {
+      "title": "AI: Search Methods for Problem Solving",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZHM1OFsvzGrUGlBehlXd8w",
+      "thumbnail": "https://i.ytimg.com/vi/gu3dZL3KdH0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMSTWKZcnN7iw5LQCNaq1FUJThBQ",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Software Testing - Live Session - Sep 2022",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBavmnYMpoPEIVqeAWYf1l8V",
+      "thumbnail": "https://i.ytimg.com/vi/9HkkGWR0hrA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDUT6MtsyiUl0RdeJ4b0P3nQzYCJg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Industry 4.0_Live Session 2022",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaO_8pbo2yF9xEe-BAT3Nom",
+      "thumbnail": "https://i.ytimg.com/vi/I4S4XnV23CY/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBin5P2kwSs7hFj6LByese13W33Ig",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Deep Learning - 2022 Sept",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbIow7caI3k4JY4GbWh00k3",
+      "thumbnail": "https://i.ytimg.com/vi/1ejXrCo-ofE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAlIjdfpLgac6YyuHANh4MNOE4JXg",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "CT Sept 2022",
+      "lessons": 26,
+      "videoCount": 26,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbnVblYyJtaaSh_zVi9NFop",
+      "thumbnail": "https://i.ytimg.com/vi/mrNZmEazSN0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBaKDowDw==&rs=AOn4CLAWpF5RDsJ0Vjhekwu1o425v69pOA",
+      "domain": "Other"
+    },
+    {
+      "title": "Statistics 1_Live Session Sep 2022",
+      "lessons": 32,
+      "videoCount": 32,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ2rgB2WUvvmunmiSmA3wbx",
+      "thumbnail": "https://i.ytimg.com/vi/2tRVIphvkqc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLCfZ4R3uvBRlDt9NUoIprJVFqJiLg",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BDM_Live Session Sep 2022",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZDm5PyV07DXzb4o-J5_R9f",
+      "thumbnail": "https://i.ytimg.com/vi/xlxo_POaHC0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDbFTXZ3pfeNwbqIfqM7xJ_dMmjBA",
+      "domain": "Other"
+    },
+    {
+      "title": "DBMS Sept Term 22",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZOUrIgYAxwalV9A19yPifY",
+      "thumbnail": "https://i.ytimg.com/vi/4bh2fAtKaWQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB5VHYDMtQvSZx68sMi5khBVvWtEg",
+      "domain": "Other"
+    },
+    {
+      "title": "MAD 1_Live Session Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYpzo7wVqvvV9OZulyGZVjA",
+      "thumbnail": "https://i.ytimg.com/vi/n2BQwbhlf98/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCB7bzJ8cTtNf7OXdHYl9zqefbWzw",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 2_Live Session Sep 2022",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZvOoHnD6VVRTXNfv9VnU_X",
+      "thumbnail": "https://i.ytimg.com/vi/klj65x6JVJc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDXdcCsc1pMla8i8jsnIyfm5INNsw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "MLT Live - Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbpP2u6NWLuYnUkDNuTTLGy",
+      "thumbnail": "https://i.ytimg.com/vi/zbwAEcbZkPA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAB6f71jnyL_oYu88F-GuD5FhVVmw",
+      "domain": "Other"
+    },
+    {
+      "title": "MLP Live - Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZj3DS27v7KN0b6qVf4lt2K",
+      "thumbnail": "https://i.ytimg.com/vi/94Pe-F5Newc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDIP9Y0vTThvRUjNu5fR1LM1a0TWw",
+      "domain": "Other"
+    },
+    {
+      "title": "System Commands - Live Session Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZZT6X5upq8uYJV4hkFvu9i",
+      "thumbnail": "https://i.ytimg.com/vi/Cycz4Lg7VN4/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLA9N3APb856YhvxMUIfZRvBiOpGhQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Statistics 2_Live Session Sep 2022",
+      "lessons": 3,
+      "videoCount": 3,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaY9ZM3sjIDrP9Ho0425tDJ",
+      "thumbnail": "https://i.ytimg.com/vi/yNbU79RQCfc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYWyATKH8wDw==&rs=AOn4CLChLwtJJLJZYxPqgjQzVcheLjKarA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "ML Foundations - Live Session Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbeDOi4_C5rDbbCLx28Nvyn",
+      "thumbnail": "https://i.ytimg.com/vi/dLp-I7YdY6Q/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA8RDM1vbVueXEK1gu7wrcOtJXdtA",
+      "domain": "Other"
+    },
+    {
+      "title": "PDSA_Live Session Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbeKXV9bZUuviPgzXNPX73s",
+      "thumbnail": "https://i.ytimg.com/vi/m_bB6023ZZc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBELM3XQbUhzGMnQIQbcMZVhxETlw",
+      "domain": "Programming"
+    },
+    {
+      "title": "JAVA - Live Session Sep 2022",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBav2Wyj1eZTi1Sndt01P0wI",
+      "thumbnail": "https://i.ytimg.com/vi/PneijWf9FsU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBcE_-YviasKLE4XMJrUNJoKuUbzw",
+      "domain": "Programming"
+    },
+    {
+      "title": "Mathematics Workshop",
+      "lessons": 20,
+      "videoCount": 20,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZMDQm3PZ1O7vpVtplVscX2",
+      "thumbnail": "https://i.ytimg.com/vi/6lqBksCAjkE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBWKGUwDw==&rs=AOn4CLA5Q9OU67tcsV5jU3QjHg_4vjQv7A",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Deep Learning",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM",
+      "thumbnail": "https://i.ytimg.com/vi/zdmEzqpAG70/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEvKLx7OGKKBpaf20VbbOT_YnZ7A",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Industry 4.0",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYMPKbh4tomTEoMiXTq9_3e",
+      "thumbnail": "",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Speech Technology_Prof. Umesh",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaI_g3_V-CFrgFIf-0Yksiv",
+      "thumbnail": "",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Machine Learning Techniques ( Prof. Arunkumar )",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbA_e6_G3FI-BA1f7lCINUu",
+      "thumbnail": "",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Software Engineering",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYt5yvXrYAjjWtf5O399Xea",
+      "thumbnail": "",
+      "domain": "Programming"
+    },
+    {
+      "title": "Software Testing",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBai6Crbq3wSw5dG-Ro1CJvT",
+      "thumbnail": "",
+      "domain": "Programming"
+    },
+    {
+      "title": "Cultural Event POD",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBavq6KxUcwAZnyWAwMY02T1",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Statistics for Data Science - II",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbH0NuBVIiwneRbQBO5T2Xg",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BA - May Term 2022",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbAFQWEUt_Z6RqJgwqluVj3",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "English 1 - Live Session May 2022",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbk0tRgSGfvgJ5VE1txpdWN",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "English 2 - Live Session May 2022",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbjQDxyZaNbnQ8RW0RGXlNV",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Stats 1 - Live Session May 2022",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBagYkNT2zvdrKpTZ60vkN8n",
+      "thumbnail": "https://i.ytimg.com/vi/8hf_CUEr13Y/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCl7dQxarzJ6k6wamGrNtFt64-rcg",
+      "domain": "Other"
+    },
+    {
+      "title": "Tools in Data Science - Live Session May 2022",
+      "lessons": 10,
+      "videoCount": 10,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZffI6nXWXVUEySLPoRSKj6",
+      "thumbnail": "https://i.ytimg.com/vi/uxCe2Q4UufU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBezPOMkZ_hIDZLvjfZz1oFzeO4iA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BDM - Live Session May 2022",
+      "lessons": 7,
+      "videoCount": 7,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY4DzHJJSZTlj6_vcHKx7UF",
+      "thumbnail": "https://i.ytimg.com/vi/e0SIEh7dAPg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYXCBlKEYwDw==&rs=AOn4CLDaGZLz-UZNZnAR5Z88lA0VBqbPdg",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths I - May Term 2022",
+      "lessons": 42,
+      "videoCount": 42,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYkydIGu5TGBdNPynJiVCzS",
+      "thumbnail": "https://i.ytimg.com/vi/IY4Es19rp58/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYISBKKH8wDw==&rs=AOn4CLBk2sa-jT1tIxjYuwrVt1ygazxc4A",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Mad II - May Term 2022",
+      "lessons": 27,
+      "videoCount": 27,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa3hozGNVyCAONhVjGts9gl",
+      "thumbnail": "https://i.ytimg.com/vi/wXa4BNVAAhk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCNFSHzhIgzVI2o_BGsSSsZMqfurw",
+      "domain": "Other"
+    },
+    {
+      "title": "Python_Live Session May 2022",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbMRDn4PtYUF_wXjgVPW-6Y",
+      "thumbnail": "https://i.ytimg.com/vi/WUA0URXSG6c/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYSSBNKGUwDw==&rs=AOn4CLAoB_ntjM6DSkXOcLBWIMwG7QLJlQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Statistics 2_Live Session May 2022",
+      "lessons": 45,
+      "videoCount": 45,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZYShKq3qYJ-e9p4WuBllFG",
+      "thumbnail": "https://i.ytimg.com/vi/XQ4WzywM-5I/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLDBtRXgyfBya8RLtDAny0GKGtnRoA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "PDSA_Live Session May 2022",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY2_yMTwMlvkUBxjEwx09P7",
+      "thumbnail": "https://i.ytimg.com/vi/DfMGCnYq9_s/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDiVo3fxPSlz0nSarIGCL2RjvL-1g",
+      "domain": "Programming"
+    },
+    {
+      "title": "MAD 1 - Live Session May 2022",
+      "lessons": 27,
+      "videoCount": 27,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaavCDmD5YWSo9QnY_mpTpY",
+      "thumbnail": "https://i.ytimg.com/vi/qXncbjUGgFk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAMn96BjMlmyocWepoyCTvreoVSeA",
+      "domain": "Other"
+    },
+    {
+      "title": "DBMS_Live Session May 2022",
+      "lessons": 33,
+      "videoCount": 33,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYsSgY2QWz740C_rlFCIHVf",
+      "thumbnail": "https://i.ytimg.com/vi/Izs7JyFeKrw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCmH_2L1tS92tF6LlyMZhqWFYKtDA",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 2 - Live Session May 2022",
+      "lessons": 36,
+      "videoCount": 36,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZyABEPRvKV_duudmZqVPz2",
+      "thumbnail": "https://i.ytimg.com/vi/gH0UMXKMC9k/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYISBKKH8wDw==&rs=AOn4CLC3yhITJKOYNe-yLad2AZDRks4Vug",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "CT_Live Session May 22",
+      "lessons": 27,
+      "videoCount": 27,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYl7b4oLdkoIWQM_HWYdBE3",
+      "thumbnail": "https://i.ytimg.com/vi/394Tidpdk1k/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAitlZXxrgq4WOqrUX7GZedgabvyw",
+      "domain": "Other"
+    },
+    {
+      "title": "System Commands Live - May 2022",
+      "lessons": 21,
+      "videoCount": 21,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZur8yVyFfScCnHtJNcbZvx",
+      "thumbnail": "https://i.ytimg.com/vi/Ex0hLPMS444/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYSiBlKCwwDw==&rs=AOn4CLAjW3RI8Y0ZCp4W3O2WTRqJQ-2TQA",
+      "domain": "Programming"
+    },
+    {
+      "title": "Java Live - May 2022",
+      "lessons": 32,
+      "videoCount": 32,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYlX88C2ds88HOZMOOcPz6j",
+      "thumbnail": "https://i.ytimg.com/vi/MPY4R6HN_j8/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAsloG_fBg93L_qeRoDuQ90AeKzlQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "MLP Live - May 2022",
+      "lessons": 26,
+      "videoCount": 26,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZb_ogl7Jt8Ni4x4Z27nUJC",
+      "thumbnail": "https://i.ytimg.com/vi/4ipdOc6Cm6s/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRiBGKGUwDw==&rs=AOn4CLCXe4osGLHmZ8y-pfslC_sercBS2g",
+      "domain": "Other"
+    },
+    {
+      "title": "MLT Live - May 2022",
+      "lessons": 29,
+      "videoCount": 29,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYJAtzyQ5aQGJOAy-Vz17Dk",
+      "thumbnail": "https://i.ytimg.com/vi/dNM9OT6B9KQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCOAX0CC6ptRHqG7ChkQ6dokj5kJg",
+      "domain": "Other"
+    },
+    {
+      "title": "ML Foundations - Live Session May 2022",
+      "lessons": 33,
+      "videoCount": 33,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBavvyyUOeoCswkGLMrKh_Lh",
+      "thumbnail": "https://i.ytimg.com/vi/WZSW_vLcAxk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCGwYZo8z_nlOAssO7cEuvjkj8epA",
+      "domain": "Other"
+    },
+    {
+      "title": "Tools in Data Science - May - 2022",
+      "lessons": 17,
+      "videoCount": 17,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZEOxUBCkv61WHOu8m7ObpE",
+      "thumbnail": "https://i.ytimg.com/vi/3OeMOb7gByE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARx_ufaYWv_j_PdphcVQI6XG12Xw",
+      "domain": "Data Science"
+    },
+    {
+      "title": "May 2022_Diploma in Programming",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ-Y8B01LHvcOvp1cca3OuD",
+      "thumbnail": "https://i.ytimg.com/vi/zoq5VS7AaAo/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDREnDuYfQ0lD_t-psvobtDnHHbcw",
+      "domain": "Programming"
+    },
+    {
+      "title": "May 2022_Diploma in Data Science",
+      "lessons": 2,
+      "videoCount": 2,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbxVWBWQE8HXuu632Vb7DrZ",
+      "thumbnail": "https://i.ytimg.com/vi/x0pxeWwk_tQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB5RBrXIcd3VNC-RjF53a-zqpvhyQ",
+      "domain": "Data Science"
+    },
+    {
+      "title": "May 2022_Foundational Level",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYayY8HosHTjbKVIxslGtsK",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Workshop - Kothai",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZF0FAaceb5iMToTogNShcZ",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "TDS_Jan 22 Term 1",
+      "lessons": 7,
+      "videoCount": 7,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbbOk8n3H0g2xrjYQimEpk9",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Business Analytics_Jan 22 Term 1",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYsLDD18Wj2z9G8t35d9Pua",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "BDM_Jan 22 Term 1",
+      "lessons": 11,
+      "videoCount": 11,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbTIwyMM-F_LZeCTyrLTa2e",
+      "thumbnail": "",
+      "domain": "Other"
+    },
+    {
+      "title": "Live English 1 -  Term 1 Jan 22",
+      "lessons": 15,
+      "videoCount": 15,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbhQSprNQFKsgUPkTpRlADo",
+      "thumbnail": "https://i.ytimg.com/vi/HzAeIiJfXgw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYTyBaKGUwDw==&rs=AOn4CLDb3BI4oz3QWlvlrapTpmKgZgjOYQ",
+      "domain": "Foundational"
+    },
+    {
+      "title": "MLF_Jan 22 Term 1",
+      "lessons": 31,
+      "videoCount": 31,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaJTDs1of6n8aS1AEyTLIU2",
+      "thumbnail": "https://i.ytimg.com/vi/uaFTaQxqWjg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA1taG17INPKqLrF6cPAOG3SR7djw",
+      "domain": "Other"
+    },
+    {
+      "title": "Stats 1_Jan 22 Term 1",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbgbglIWN3Yh5lHAxC3vDN7",
+      "thumbnail": "https://i.ytimg.com/vi/p-I9GToXFFI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC3pZxfPIYeWgrdkLVh32zRwVEBxQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 1 Live_Jan 22 Term 1",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbIQcn-5DWdkdO7PSa6fgK6",
+      "thumbnail": "https://i.ytimg.com/vi/BhpSvq6DrZU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBWKD4wDw==&rs=AOn4CLDjSCWH6V6Jq1dGEgFoYU0_HH98nw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "MAD 1_Jan 22 Term 1",
+      "lessons": 37,
+      "videoCount": 37,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZk4anG3HsvA20Q9x3P7rWb",
+      "thumbnail": "https://i.ytimg.com/vi/x_ye3VndE04/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDxaQLxJwR1iBRofODfzUALcnmm2A",
+      "domain": "Other"
+    },
+    {
+      "title": "Live English 2 -  Term 1 Jan 22",
+      "lessons": 20,
+      "videoCount": 20,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaY8DFnDHUB2s0Q8xpBmM9Z",
+      "thumbnail": "https://i.ytimg.com/vi/hunGH2VcSCg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBQKD8wDw==&rs=AOn4CLAJT5IW0Dgos7VLhXT_APZf-fvtIQ",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Java - live - Term 1 Jan 22",
+      "lessons": 37,
+      "videoCount": 37,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBarLs_Fz1U1tQ3VU76mBl-B",
+      "thumbnail": "https://i.ytimg.com/vi/w34aZqTChbg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBWKD4wDw==&rs=AOn4CLBxSWIlZgmHgmSHY6d-90Q_zxbQ8A",
+      "domain": "Programming"
+    },
+    {
+      "title": "MAD 2_Jan 2022 Term 1",
+      "lessons": 26,
+      "videoCount": 26,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYPpr58-9zOXICZE02BmmG_",
+      "thumbnail": "https://i.ytimg.com/vi/YlbUEgNCpbw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCuDWuTvwgQXtzT_di1YoUV9sXRGA",
+      "domain": "Other"
+    },
+    {
+      "title": "Live - ML Theory - Term 1 Jan 22",
+      "lessons": 27,
+      "videoCount": 27,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb96RsZJ27RUXnRobdRh6bI",
+      "thumbnail": "https://i.ytimg.com/vi/Gh-xtsfJStA/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYTSBNKGUwDw==&rs=AOn4CLCRxZiS5-Sn2FQqmvK_qZw5K7OvvA",
+      "domain": "Other"
+    },
+    {
+      "title": "LIVE System Commands- Term 1 Jan 22",
+      "lessons": 19,
+      "videoCount": 19,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbOTRxyyNBd4iptSrFzA_Py",
+      "thumbnail": "https://i.ytimg.com/vi/kPektjhN-Xo/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAwgyTrxxl7ttQx6fz-HL9rT6cB9A",
+      "domain": "Programming"
+    },
+    {
+      "title": "LIVE - ML Practice - Term 1 Jan  22",
+      "lessons": 25,
+      "videoCount": 25,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbZwyw81szgfRSicFQgEOz7",
+      "thumbnail": "https://i.ytimg.com/vi/6YOOkVZlYJc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCufjSwfQsf8Sfv-nw7Gmp40BdRPw",
+      "domain": "Other"
+    },
+    {
+      "title": "Maths 2_Jan 22 Term 1",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbOcAjwevk9OmZ21-D_XUBU",
+      "thumbnail": "https://i.ytimg.com/vi/TbNXcOuFSJ0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDrPGHK5DZHdsZFfffGQVxIMt_09A",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Statistics 2_Jan 22 Term 1",
+      "lessons": 39,
+      "videoCount": 39,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYBLjVu0tYIMI4lgRuw9A1J",
+      "thumbnail": "https://i.ytimg.com/vi/KiuI1RdaQ2w/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLACG_6s56RgLsCSi_15qNv3mSB4Xg",
+      "domain": "Data Science"
+    },
+    {
+      "title": "PDSA_Jan 22 Term 1",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZCzKx_2cXpmcVdNAJQzs4V",
+      "thumbnail": "https://i.ytimg.com/vi/xbLsRX00CcQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBWKD8wDw==&rs=AOn4CLAGjf2tUDF05IuV9ezzIqg_h45liQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "CT_ Jan 2022 Term 1",
+      "lessons": 20,
+      "videoCount": 20,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbiKM0WUt3UhKStIIAZDBes",
+      "thumbnail": "https://i.ytimg.com/vi/fdG9GwXyiRw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLB-s6EZYhKwnnucjdBDVA9To81J3Q",
+      "domain": "Other"
+    },
+    {
+      "title": "Python  - Jan 22 Term 1",
+      "lessons": 24,
+      "videoCount": 24,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbjuVSiINJXiiOs8NjIXFu1",
+      "thumbnail": "https://i.ytimg.com/vi/Y0KmamorhJc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCDUJIkHotjv_1Pt1Q4liJlQ7m39Q",
+      "domain": "Programming"
+    },
+    {
+      "title": "DBMS_Jan 22 Term 1",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaSPulKRrjuhfeuBWJfWDyO",
+      "thumbnail": "https://i.ytimg.com/vi/FhArqkM9jjM/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLCh0ruoTSWeEGIsTIvGjhJePtNdqA",
+      "domain": "Other"
+    },
+    {
+      "title": "Machine Learning Practice Course Week 1 & 2",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY8rAcmIuFv4_Xda5l_AmW2",
+      "thumbnail": "https://i.ytimg.com/vi/c3fKU3H4VDM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDDrC8qid8qMzKxtdwTJNToXxcmQ",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Tools in Data Science",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZJ2q_hd8ZbDRgOJlB0CZLw",
+      "thumbnail": "https://i.ytimg.com/vi/wxU5evDz3gI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBGmXUu_bdUtdZl6O249sE0ijrfXA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Business Analytics",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaLi6KQP_MHx_oGQHnqlTji",
+      "thumbnail": "https://i.ytimg.com/vi/_0z2c-Awpt0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcoDkHvobXuDVSUh_Bh7Ez1wkioA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "System Commands",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBajgl-4et7X2BjOIObqlp81",
+      "thumbnail": "https://i.ytimg.com/vi/PHrN7yp1AJw/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB8JEQ9fnTq-izGpVzL7jv_u1jceg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Modern Application Development II",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY-wnDqzP1JQVaX3A-dfd1o",
+      "thumbnail": "https://i.ytimg.com/vi/Szn0FoMfx10/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLByTL5CQzHD96IesEmPmQJ7pbsUUA",
+      "domain": "Programming"
+    },
+    {
+      "title": "Programming Concepts using Java",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaXTORd_OKXZRXCMh3dGnBZ",
+      "thumbnail": "https://i.ytimg.com/vi/3a1FXBR6QXY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3hTLQ6Lbwy3jBpCnqp3I5d8JXLg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Machine Learning Practice Course",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb3ovNQam2c_WcGeiW9OhQo",
+      "thumbnail": "https://i.ytimg.com/vi/MdnmbjKM7a0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAiwBoLxBzdb0D2_rgyrtfcfK9pzw",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Maths 1 Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbWJi0MKTOAj1ExFoSRrKuV",
+      "thumbnail": "https://i.ytimg.com/vi/F9BZ5JsnjYM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgpkwKLLyUy-NYvyOYt3Ctkbjdbw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "English 1 Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBY1sl_tcCPVA-EpV6716tNS",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "CT Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbCPjOE82l24XSCCfemEZJ_",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Math 1 Calculus",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbu6JeTsdGSNOE7OTFuRrZT",
+      "thumbnail": "",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Computational Thinking for Diploma Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZ83iaHXXfuyQ4VQl2JLfUn",
+      "thumbnail": "",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Statistics I Diploma Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C",
+      "thumbnail": "",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Python for Diploma Qualifier",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYzW6BopCxgaQs3SI6zjaOH",
+      "thumbnail": "https://i.ytimg.com/vi/8ndsDXohLMQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoaZazKhnm-vjmKMjuLsp4Mz2pOA",
+      "domain": "Programming"
+    },
+    {
+      "title": "Diploma _ Mathematics 1",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaZaultzExrp75FnTsRE0kw",
+      "thumbnail": "https://i.ytimg.com/vi/F9BZ5JsnjYM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgpkwKLLyUy-NYvyOYt3Ctkbjdbw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "BDM - Live Session",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBakCjpR32_1JIes45_rZ4vh",
+      "thumbnail": "https://i.ytimg.com/vi/T8skNVmFYD0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCOymcwX7lS43NO6FogpRyRgXKBcA",
+      "domain": "Other"
+    },
+    {
+      "title": "English - 2 Term 3",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBacGzghGxhLAyZbZ9vCYI7P",
+      "thumbnail": "https://i.ytimg.com/vi/bbZxF0yq-Fg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDShDGU2I4J7I4GF27Sb7nVlyzQKg",
+      "domain": "Foundational"
+    },
+    {
+      "title": "English - 1 Term 3",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa7PH3w51FRGPH_2B2-2N2Y",
+      "thumbnail": "https://i.ytimg.com/vi/k88_KLpOEWY/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLDl8N8uHANzcpf8KUyLarLPKY9djA",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Computational Thinking - Term 3 Live session",
+      "lessons": 49,
+      "videoCount": 49,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYWPUFkL3owjTZ4PpJfED25",
+      "thumbnail": "https://i.ytimg.com/vi/_f2v0zpIflE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDsjR5mtrrn0o9KFG1faiMQUK-Z0A",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Term 3_Stats - 2 Live Session",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZa_v2hgVoySmUx2sfmnnIv",
+      "thumbnail": "https://i.ytimg.com/vi/aoQ9FeDtpKg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAMdtkac62LvOM39OgjuMYg3oxx_g",
+      "domain": "Other"
+    },
+    {
+      "title": "Term 3 - Python Live Session",
+      "lessons": 50,
+      "videoCount": 50,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYbeEjB_yv60rrfYCO_deDQ",
+      "thumbnail": "https://i.ytimg.com/vi/GvMWzAcwBFU/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYXyBlKFMwDw==&rs=AOn4CLAHfnkngo4MEzEdohQev9j2OPMpmA",
+      "domain": "Programming"
+    },
+    {
+      "title": "Term 3 - Stats - I Live Session",
+      "lessons": 41,
+      "videoCount": 41,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb6SQJ_BLeErFFhULYoMo5D",
+      "thumbnail": "https://i.ytimg.com/vi/JmU164mImvI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBQ4eiqhdU4rPhwdEcFtVQB3EeerA",
+      "domain": "Other"
+    },
+    {
+      "title": "Term 3 - Maths 1 Live Session",
+      "lessons": 35,
+      "videoCount": 35,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZfeLW0m7tbye34lBm26wCO",
+      "thumbnail": "https://i.ytimg.com/vi/wjr-zrN1Opw/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYWCAUKH8wDw==&rs=AOn4CLA2tZRilyavOVhgusPe77ttlxotvQ",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Term 3 - Maths 2 Live Session",
+      "lessons": 40,
+      "videoCount": 40,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYJneGbBBNJ7mWXspGKlBvs",
+      "thumbnail": "https://i.ytimg.com/vi/M3I55V315wQ/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDS3YmhEG03b-NOBFYEsackr4BdHg",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Live Session_PDSA",
+      "lessons": 28,
+      "videoCount": 28,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZUUi4g6govlec5iI_Tgmqa",
+      "thumbnail": "https://i.ytimg.com/vi/PJwOax93Mxg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYfyAeKEcwDw==&rs=AOn4CLA2cUH_5H-AXtEhARlmKnbnN50OOg",
+      "domain": "Programming"
+    },
+    {
+      "title": "App Dev - Live session",
+      "lessons": 24,
+      "videoCount": 24,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZh9nAXWJiPgj28P7pBrpQA",
+      "thumbnail": "https://i.ytimg.com/vi/h43aw8kz0ME/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAtK-khTOuwvwf_g3b1BGTiQ1y__w",
+      "domain": "Other"
+    },
+    {
+      "title": "ML Foundations - Live session",
+      "lessons": 37,
+      "videoCount": 37,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYZp-KplQMEPNhrdE7JAotn",
+      "thumbnail": "https://i.ytimg.com/vi/1vLlwqCawO0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYTiBlKF8wDw==&rs=AOn4CLBymSK-Nijayqrvr4BwYg-2a___1A",
+      "domain": "Other"
+    },
+    {
+      "title": "Database Management System - Live session",
+      "lessons": 33,
+      "videoCount": 33,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYu3qOIpWxYCzbC2ciTVhu8",
+      "thumbnail": "https://i.ytimg.com/vi/nbVDmVbvxQI/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAo6xyezU9TDQLfNZAhLi5woy0voQ",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Programming, Data Structures and Algorithms using Python_Prof. Madhavan Mukund",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaDccbZRgiU1sHX2gZrQ-XT",
+      "thumbnail": "https://i.ytimg.com/vi/G-XixYjFNnA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_8XQL1faSOfUq1pvBnLwXoNCUkQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "Business Data Management",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbJ-X4TNz-elPXEvBN30iZq",
+      "thumbnail": "https://i.ytimg.com/vi/S0cP7uE_iLc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNluH1fn429sZbidXevjNK9ccDgQ",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Course Orientation and Counseling _ Diploma Level LIVE",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYXsWtst3t-fFxoh6uHwQEd",
+      "thumbnail": "https://i.ytimg.com/vi/W6ngvvRMvnc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYfyAhKCEwDw==&rs=AOn4CLDp9aWenxhfvA8hhClqIPuTSd5J3Q",
+      "domain": "Other"
+    },
+    {
+      "title": "Course Orientation and Counseling _ Foundation LIVE",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbnycDkrKemicnpBHIw3ppO",
+      "thumbnail": "https://i.ytimg.com/vi/CKYZ_SHninc/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDRlTRwK-uMhT7S4SZzt3BU9qtQVw",
+      "domain": "Other"
+    },
+    {
+      "title": "Database Management Systems",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU",
+      "thumbnail": "https://i.ytimg.com/vi/OMHbGm9SQuE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDjoKmdQyBOIEDAS4_Zl9bhJxQsDQ",
+      "domain": "Business & Finance"
+    },
+    {
+      "title": "Machine Learning Foundations",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBammhVmBE9f5eezTj2kDfTN",
+      "thumbnail": "https://i.ytimg.com/vi/zuS1WZQGhAs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDQilhmNR81SdYVVAKQZRHYuNc7wQ",
+      "domain": "AI & Machine Learning"
+    },
+    {
+      "title": "Modern Application Development - I",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZGVuyXs2l3KJtiHs0KMVE7",
+      "thumbnail": "https://i.ytimg.com/vi/-68pEHp28cM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuf4aw2HI-Lf1bzggSvHquQhXaRg",
+      "domain": "Programming"
+    },
+    {
+      "title": "LIVE _ English 2",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZHZeOPO6cNb3qIS7cpQlz1",
+      "thumbnail": "https://i.ytimg.com/vi/OF5_qkFWTWs/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBaKDAwDw==&rs=AOn4CLCFsBX0JHCAUVj-MOH1tUz-SDof5g",
+      "domain": "Foundational"
+    },
+    {
+      "title": "LIVE _ English 1",
+      "lessons": 32,
+      "videoCount": 32,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbvxc8dfd0k_OPD4BPvuJXZ",
+      "thumbnail": "https://i.ytimg.com/vi/_eScrMjkwzk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYciBZKDIwDw==&rs=AOn4CLDyDATa_u7FOrUXwGlyp6sjdWjjOQ",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Live Sessions _ Python",
+      "lessons": 38,
+      "videoCount": 38,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaQtIFphNjePbE8rjgUjd66",
+      "thumbnail": "https://i.ytimg.com/vi/hHgbYe97jYM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJWy_oTiSRAyZv0p0mL53BV9ZYww",
+      "domain": "Programming"
+    },
+    {
+      "title": "Live Sessions - Maths 2",
+      "lessons": 41,
+      "videoCount": 41,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa0QNE3AtpZOMhTDzdMkitW",
+      "thumbnail": "https://i.ytimg.com/vi/7NIO0q4R3W0/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLADApAYFUFoZpGjccM3cm1VibwARg",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Live Sessions _ Computational Thinking",
+      "lessons": 45,
+      "videoCount": 45,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBaxoidq1YX6ZTd6xhVhiGL_",
+      "thumbnail": "https://i.ytimg.com/vi/MCDwJ21c6qE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLADdWTxvnJfcWZOu_COH3jDE51GPw",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Live Sessions - Statistics 1",
+      "lessons": 40,
+      "videoCount": 40,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZEU1yNrwrGTR8aAr7eT1Uh",
+      "thumbnail": "https://i.ytimg.com/vi/cQqkA-ws1AE/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA1EU5EGmINRdwB43G_2Mhj-uNwBQ",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Live Sessions - Statistics 2",
+      "lessons": 43,
+      "videoCount": 43,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbFh6le35yvY-eDtz2WhbBv",
+      "thumbnail": "https://i.ytimg.com/vi/A24sR8VRyHM/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAVJVx5-tliweepcUVMpT0uKJ0gFA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Live Sessions - Maths 1",
+      "lessons": 29,
+      "videoCount": 29,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBa8CvINM1mX4WqXJCkFbrpU",
+      "thumbnail": "https://i.ytimg.com/vi/wHuaay2HjH8/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYWSBlKD0wDw==&rs=AOn4CLDgAACVVa0FxmGadllfVmMhjfyuFg",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Programming in Python",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs",
+      "thumbnail": "https://i.ytimg.com/vi/Yg6xzi2ie5s/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlG55jRML_YOSV7L2IvT12GkVBzg",
+      "domain": "Programming"
+    },
+    {
+      "title": "Statistics for Data Science 2",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbLZ6RdNTIXvFdaMpvqagt0",
+      "thumbnail": "https://i.ytimg.com/vi/k4oWqYT6tjk/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4AdQGgALgA4oCDAgAEAEYOCBIKHIwDw==&rs=AOn4CLBsUX5mYMGBGBplScCj0pxt0bPnjQ",
+      "domain": "Data Science"
+    },
+    {
+      "title": "English II",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbWy3GL4oWKXGrwf6Ul8Cry",
+      "thumbnail": "https://i.ytimg.com/vi/3nAOsJgIuDo/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0FY9dHj-UzCRJQMosvsXd4mSC_w",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Mathematics for Data Science II",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBboGlwPVSsWP8loAJCLrKc8",
+      "thumbnail": "https://i.ytimg.com/vi/1So2VV9Tm_A/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAlx77myhgI_rAG3XTrvesE-bpSBg",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Computational Thinking",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYSzaAFqpyQKqmoni-EefS7",
+      "thumbnail": "https://i.ytimg.com/vi/S-7LrggTfA8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCaqB-ZfZ2OMc37gN0pYv1O1Vw8TA",
+      "domain": "Foundational"
+    },
+    {
+      "title": "English 1 (Basic English)",
+      "lessons": 0,
+      "videoCount": 0,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBbf28nnkgAuFwaWjGtjaNck",
+      "thumbnail": "https://i.ytimg.com/vi/EPa6ATqMI9g/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBI1bL9DhB-o0Oo9CKR7X2tBctcrA",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Statistics for Data Science 1",
+      "lessons": 149,
+      "videoCount": 149,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBYrMs3zybOqr1DzMFCX49xG",
+      "thumbnail": "https://i.ytimg.com/vi/V5fqShLVpoI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD4tQ5Non9jJF6UQh-J51g7K6jLfA",
+      "domain": "Data Science"
+    },
+    {
+      "title": "Mathematics for Data Science 1",
+      "lessons": 186,
+      "videoCount": 186,
+      "url": "https://www.youtube.com/playlist?list=PLZ2ps__7DhBZYDZo9A0pZ_i0xhstrk5cR",
+      "thumbnail": "https://i.ytimg.com/vi/F9BZ5JsnjYM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgpkwKLLyUy-NYvyOYt3Ctkbjdbw",
+      "domain": "Data Science"
+    }
+  ],
+  "stats": {
+    "total_playlists": 257,
+    "total_videos": 4727
+  }
+}

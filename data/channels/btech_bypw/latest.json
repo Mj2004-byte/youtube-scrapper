@@ -1,0 +1,184 @@
+{
+  "channel": {
+    "name": "@BTech_bypw",
+    "handle": "@BTech_bypw",
+    "slug": "btech_bypw",
+    "url": "https://www.youtube.com/@BTech_bypw",
+    "subscribers": null,
+    "scraped_at": "2026-05-04T21:06:16.759955"
+  },
+  "playlists": [
+    {
+      "title": "Strategy & Guidance For BTech and College Students",
+      "lessons": 19,
+      "videoCount": 19,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywAAn4dwKHyx-yMXNEz3dCt6",
+      "thumbnail": "https://i.ytimg.com/vi/TDE8CJo0wVQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAk03kUxXOLpk1a22qoyEomcn6u8w",
+      "domain": "Other"
+    },
+    {
+      "title": "Jobs & Internship and Govt Job Updates For Semester Students",
+      "lessons": 51,
+      "videoCount": 51,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywC8G4XudFFdacaaW9ny7QJc",
+      "thumbnail": "https://i.ytimg.com/vi/9c2oektuNMI/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBNFT8pxx6e1lQ8cdLJmRRFrutpw",
+      "domain": "Other"
+    },
+    {
+      "title": "TCS NQT Exam 2026 | CS | TCS NQT Series 2026",
+      "lessons": 11,
+      "videoCount": 11,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywApiaKbXITSDO5WsCSRQgEb",
+      "thumbnail": "https://i.ytimg.com/vi/VoDMBef_NyU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHQon-fi4ZO4TavhsWy2ztN-uXVA",
+      "domain": "Other"
+    },
+    {
+      "title": "Engineering Drawing/Graphics For Semester Exams",
+      "lessons": 22,
+      "videoCount": 22,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywDi49l3_68v_35LK9DZmaX2",
+      "thumbnail": "https://i.ytimg.com/vi/xw41AjZ3i7U/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC8dCgv2cGPEOj-MuKrkR09nJ8tnQ",
+      "domain": "Other"
+    },
+    {
+      "title": "College Life Opportunities for Students | Semester Wallah",
+      "lessons": 67,
+      "videoCount": 67,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywCe0ylagelnGgn5Bw8hY2Vm",
+      "thumbnail": "https://i.ytimg.com/vi/gcmGRwfI1is/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBOZm0g4obZGLM1aUNNuaSFBwlJeg",
+      "domain": "Other"
+    },
+    {
+      "title": "Engineering Physics | Engineering Physics For Semester Exams | Semester Wallah",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywAfgeh8sHOyJHI-pQm_dcVN",
+      "thumbnail": "https://i.ytimg.com/vi/055I25Bn4TY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA68JStA_YmpnfKBUYYydrxO7ZWsg",
+      "domain": "Other"
+    },
+    {
+      "title": "Refrigeration & Air Conditioning For Semester Exams | Mechanical Engineering",
+      "lessons": 6,
+      "videoCount": 6,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywCY6t5GbG5WVoKH1bZAv9f4",
+      "thumbnail": "https://i.ytimg.com/vi/FZqki5dgAJA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_K90KgmTvfdddSM9et8KKhwwtpQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Fluid Mechanics | Mechanical Engineering",
+      "lessons": 10,
+      "videoCount": 10,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywBLbE4Fo8q-BOoGoBSvPS__",
+      "thumbnail": "https://i.ytimg.com/vi/YXzUZjD33lc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHgrDx3njAGYrJFWli4Lkar7A8WQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Internship & Placement",
+      "lessons": 1,
+      "videoCount": 1,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywAJqU0GOzQh0OVC2jCLKkil",
+      "thumbnail": "https://i.ytimg.com/vi/2I-44_02B84/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCae3OKB2n5u-lk85Tg_r1VTDsSrQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Theory Of Machine | Simple Mechanism | Mechanical Engineering",
+      "lessons": 7,
+      "videoCount": 7,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywCiOYkZLNfFXcMBzr-Spml7",
+      "thumbnail": "https://i.ytimg.com/vi/V-5ga3ybWPw/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2XXt4Wl1tdEhhln6RQ8vPrFf8kw",
+      "domain": "Other"
+    },
+    {
+      "title": "C Programming For Semester Exams | Semester Wallah",
+      "lessons": 7,
+      "videoCount": 7,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywBn69iGxXmpDnRvwg4QzQo7",
+      "thumbnail": "https://i.ytimg.com/vi/1EM5Z1fXV70/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLANFOxUP8RL67yUCmtmwlrmze1ASQ",
+      "domain": "Programming"
+    },
+    {
+      "title": "IC Engines | Semesters Exam",
+      "lessons": 8,
+      "videoCount": 8,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywDyjTvoioqP_qPGMJHhcNkY",
+      "thumbnail": "https://i.ytimg.com/vi/o8-JqQG-XTY/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDANsY1vV5wxa6XCLmuLNOlQ7SkdA",
+      "domain": "Other"
+    },
+    {
+      "title": "Machine Design | Design Against Static Loads | Semesters Exam",
+      "lessons": 9,
+      "videoCount": 9,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywBHEKxikJibjNXIQK-kkZUr",
+      "thumbnail": "https://i.ytimg.com/vi/C5MJ7nrgluQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD85SH1II2Bnj8sASk3mRzfz4PIxQ",
+      "domain": "Other"
+    },
+    {
+      "title": "Latest Updates and Information For College Students 🔔",
+      "lessons": 19,
+      "videoCount": 19,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywDK986HRXWGRUc1WIfSoPAt",
+      "thumbnail": "https://i.ytimg.com/vi/j3h7nsl8s0E/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3PuBhbx1ou-_Q5bbDq-kjwGRkJA",
+      "domain": "Other"
+    },
+    {
+      "title": "Manufacturing Processes | Semesters Exam",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywApzigOyyPPYKxIJjEVD6WE",
+      "thumbnail": "https://i.ytimg.com/vi/QEOnLqei3kA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAbcaBKlOQSKSPjZz3baeuygoFsLA",
+      "domain": "Other"
+    },
+    {
+      "title": "Material Science | Semesters Exam",
+      "lessons": 26,
+      "videoCount": 26,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywAeO_D08r4HnuKl1A7mpR2e",
+      "thumbnail": "https://i.ytimg.com/vi/GfKoEinmt7k/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKFD5OVtgtJOYvYSvzbRm-qI8JCw",
+      "domain": "Other"
+    },
+    {
+      "title": "How to Score More in Semesters Exams",
+      "lessons": 5,
+      "videoCount": 5,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywD-rUx7MVWikYTpJwvLvdFG",
+      "thumbnail": "https://i.ytimg.com/vi/xayx6ccuaDU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCJyEGMhdwu3nnHEqLGne4kYaAWWg",
+      "domain": "Other"
+    },
+    {
+      "title": "Engineering Mechanics | English Medium | Semester Exam",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywA8S_ivijQfwwMqlXnxPc-A",
+      "thumbnail": "https://i.ytimg.com/vi/o9Q5Q1SZa5Y/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBDVZKUu-pstBiXOMBYWqecQNvCMQ",
+      "domain": "Foundational"
+    },
+    {
+      "title": "Engineering Mathematics | Semesters Exam",
+      "lessons": 26,
+      "videoCount": 26,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywDXz-be8liZSdqvqQhEbt5b",
+      "thumbnail": "https://i.ytimg.com/vi/lLLkHFeq0nU/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC1dLG66ii85nTnmJJMwdwZmc_Lfw",
+      "domain": "Mathematics"
+    },
+    {
+      "title": "Engineering Mechanics | Semester Exam",
+      "lessons": 9,
+      "videoCount": 9,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywD9MueeK1LxllRqAfJYEIT9",
+      "thumbnail": "https://i.ytimg.com/vi/A8aiFiEeHo4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBKPxJEE74wEGfwt7GTdMQGUNkMvA",
+      "domain": "Other"
+    },
+    {
+      "title": "Top 10 Engineering Colleges In Different States",
+      "lessons": 4,
+      "videoCount": 4,
+      "url": "https://www.youtube.com/playlist?list=PLqjKM28q0ywAnAf-b5KzAn1SbiRUENbWv",
+      "thumbnail": "https://i.ytimg.com/vi/viWt2HJ7lHA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAXcTClV74sl7Xv_Ca8DZTp67sWZA",
+      "domain": "Other"
+    }
+  ],
+  "stats": {
+    "total_playlists": 21,
+    "total_videos": 317
+  }
+}

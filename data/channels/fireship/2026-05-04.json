@@ -1,0 +1,23 @@
+{
+  "channel": {
+    "name": "@Fireship",
+    "handle": "@Fireship",
+    "slug": "fireship",
+    "url": "https://www.youtube.com/@Fireship",
+    "subscribers": null,
+    "scraped_at": "2026-05-04T20:36:40.056881"
+  },
+  "courses": [
+    {
+      "title": "Angular",
+      "lessons": 10,
+      "url": "https://www.youtube.com/watch?v=oqZ4-ULwfbc&list=PL0vfts4VzfNjsTV_6i9a9iczMnthWqHzM",
+      "thumbnail": "https://i.ytimg.com/vi/oqZ4-ULwfbc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHUCLgRgwXnYOFpNmjaeZUd0azMw",
+      "domain": "Other"
+    }
+  ],
+  "stats": {
+    "total_courses": 1,
+    "total_lessons": 10
+  }
+}
